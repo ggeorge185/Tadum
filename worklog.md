@@ -472,3 +472,6 @@ pondered blue-green deployments, single environment stable; zero-downtime theori
 ## 2025-03-25T10:39:39
 explored service mesh concepts, network calls direct; theoretical request routing.
 
+## 2025-03-26T21:20:39
+debated best practices, practice put on hold; principles before patterns.
+
