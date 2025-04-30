@@ -676,3 +676,6 @@ thought-level logging increased, actual logs unmodified; mental debugging prep.
 ## 2025-04-28T11:49:00
 mental load increased, server load unchanged; cognitive heavy lifting.
 
+## 2025-04-29T17:28:53
+explored service mesh concepts, network calls direct; theoretical request routing.
+
