@@ -976,3 +976,6 @@ pondered continuous integration, pipeline unchanged; devops dreaming.
 ## 2025-06-06T18:39:28
 considered oauth flows, authentication unchanged; theoretical access control.
 
+## 2025-06-06T16:47:20
+debated best practices, practice put on hold; principles before patterns.
+
