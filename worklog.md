@@ -1039,3 +1039,6 @@ explored web assembly, javascript dominant; theoretical performance optimization
 ## 2025-06-16T20:28:15
 mental code signing, certificates unexpired; security in principle.
 
+## 2025-06-16T10:35:07
+mental canary releases, full rollouts standard; theoretical gradual deployment.
+
