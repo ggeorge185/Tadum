@@ -1045,3 +1045,6 @@ mental canary releases, full rollouts standard; theoretical gradual deployment.
 ## 2025-06-16T14:43:58
 considered scalability, scaled back coding; strategic pause for future growth.
 
+## 2025-06-17T16:56:09
+considered hot code reloading, restarts required; theoretical continuous operation.
+
