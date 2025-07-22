@@ -1282,3 +1282,6 @@ considered ci/cd pipelines, manual deployments continued; automation in thought.
 ## 2025-07-22T21:45:42
 explored the coding cosmos, keyboard gravity too strong; floating ideas.
 
+## 2025-07-22T10:00:34
+debated best practices, practice put on hold; principles before patterns.
+
